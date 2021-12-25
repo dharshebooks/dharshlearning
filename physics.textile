@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Physics</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  background-image: url(https://us.123rf.com/450wm/luchschen/luchschen1904/luchschen190400319/121432043-laser-beam-and-optical-glass-on-black-background.jpg?ver=6);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+.button21 {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: WHITE;
+  padding: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 29px;
+  margin: 20px 260px;
+  cursor: pointer;
+}
+
+.button22 {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: WHITE;
+  padding: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 29px;
+  margin:20px 250px;
+  cursor: pointer;
+}
+
+.button23 {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: WHITE;
+  padding: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 29px;
+  margin: 20px 260px;
+  cursor: pointer;
+}
+.button24 {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: WHITE;
+  padding: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 29px;
+  margin: 20px 260px;
+  cursor: pointer;
+}
+.button25 {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: WHITE;
+  padding: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 29px;
+  margin:20px 260px;
+  cursor: pointer;
+}
+
+
+.button21 {border-radius: 40px;}
+
+.button22 {border-radius: 40px;}
+
+.button23 {border-radius: 40px;}
+.button24 {border-radius: 40px;}
+.button25 {border-radius: 40px;}
+
+
+
+
+</style>
+</head>
+<body>
+
+<h1 style="color: red;"> 
+<p> Chapters... </p>
+</h1>
+
+
+<button class="button button21">Light-Reflection and Refraction</button>
+
+<button class="button button22">The Human Eye And The Colourful World</button>
+
+<button class="button button23">Electricity</button>
+<button class="button button24">Magnetic Effects Of Electric Current</button>
+<button class="button button25">Sources Of Energy</button>
+
+</body>
+</html>
